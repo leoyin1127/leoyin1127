@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leoyin1127&label=Profile%20views&color=0e75b6&style=flat" alt="leoyin1127" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leoyin1127" alt="leoyin1127" /></a> </p>
-
 - 🔭 I’m currently working on [VolunTrack, YiXing](https://github.com/VolunTrack, https://github.com/YiXeng/mobile,)
 
 - 🌱 I’m currently learning **AWS and Machine Learning**
