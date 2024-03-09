@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **leo.yin1127@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/leoyin1127/Resume)
+- 📄 Know about my experiences (https://github.com/leoyin1127/Resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
