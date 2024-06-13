@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [VolunTrack, YiXing](https://github.com/VolunTrack, https://github.com/YiXeng/mobile,)
 
-- 🌱 I’m currently learning **AWS and Machine Learning**
+- 🌱 I’m currently learning **GCP and Deep Learning**
 
 - 👯 I’m looking to collaborate on [VolunTrack](https://github.com/VolunTrack)
 
