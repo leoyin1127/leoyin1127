@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shuolin Yin</h1>
-<h3 align="center">A Full-Stack First Year Computer Engineering Student</h3>
+<h3 align="center">A Full-Stack Second Year Computer Engineering Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leoyin1127&label=Profile%20views&color=0e75b6&style=flat" alt="leoyin1127" /> </p>
 
