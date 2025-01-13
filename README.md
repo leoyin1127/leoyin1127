@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on [VolunTrack](https://github.com/VolunTrack)
 
-- 📫 How to reach me **leo.yin1127@gmail.com**
+- 📫 How to reach me **shuolin.yin@gmail.com**
 
 - 📄 Know about my experiences/CV (https://github.com/leoyin1127/Resume)
 
