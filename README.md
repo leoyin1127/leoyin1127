@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leoyin1127&label=Profile%20views&color=0e75b6&style=flat" alt="leoyin1127" /> </p>
 
-- 🔭 I’m currently working on [VolunTrack, YiXing](https://github.com/VolunTrack, https://github.com/YiXeng/mobile,)
+- 🔭 These are my previous projects [VolunTrack, YiXing](https://github.com/VolunTrack, https://github.com/YiXeng/mobile,)
 
-- 🌱 I’m currently learning **GCP and Deep Learning**
+- 🌱 I’m currently researching on **MLLM and Deep Learning**
 
 - 👯 I’m looking to collaborate on [VolunTrack](https://github.com/VolunTrack)
 
