@@ -166,16 +166,6 @@ const shuolin = {
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=leoyin1127&theme=tokyo-night&hide_border=true&border_radius=10" />
 </div>
 
-## 🏆 Achievements & Recognition
-
-<div align="center">
-  
-| 🥈 **Awards** | 📚 **Publications** | 🎓 **Scholarships** |
-|:---:|:---:|:---:|
-| 2nd Place Global Finals<br/>BCG & Global Spark<br/>Hack the Globe 2025 | MICCAI 2025<br/>(Submission in Progress)<br/>Medical MLLMs Research | Faculty of Engineering<br/>Admission Scholarship<br/>Edward S. Rogers Sr. Scholarship |
-
-</div>
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
