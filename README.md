@@ -12,15 +12,6 @@
   <img src="https://img.shields.io/github/stars/leoyin1127?label=Total%20Stars&style=for-the-badge&color=yellow" alt="GitHub stars" />
 </div>
 
-<br>
-
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=leoyin1127&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-  </a>
-</div>
-
-<br>
 
 ## 🚀 About Me
 
