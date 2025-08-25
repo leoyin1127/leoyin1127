@@ -155,17 +155,6 @@ const shuolin = {
 
 </div>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=leoyin1127&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoyin1127&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" />
-</div>
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=leoyin1127&theme=tokyo-night&hide_border=true&border_radius=10" />
-</div>
-
 ## 🤝 Let's Connect!
 
 <div align="center">
